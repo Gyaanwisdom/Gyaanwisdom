@@ -1,14 +1,26 @@
 ### Currently, I'm:
 1. Studying Engineering at the University of Lagos
-2. Building practical hardware-software integrations, robotics systems, and civic tech platforms (UCIP, IoT)
+2. Building practical hardware-software integrations, robotics systems, and civic tech platforms
 3. Exploring AI/ML model deployment, autonomous agent workflows, and scalable software architecture
 
 ### Projects:
-* **[UCIP (Urban Climate Intelligence Platform)](https://github.com/Gyaanwisdom/dcunilag-challenge-0)** - Municipal climate resilience tracking application built to monitor environmental metrics and plan sustainable interventions. Finalist at the UNILAG Design Studio Grand Finale.
-* **[SkillGate](https://github.com/Gyaanwisdom/skillgate1)** - Digital marketplace application architected to connect local residents with verified skilled artisans.
+* **[skillgate1](https://github.com/Gyaanwisdom/skillgate1)** - Digital marketplace application connecting local residents with verified skilled artisans.
+* **[skillgate001](https://github.com/Gyaanwisdom/skillgate001)** - Iteration and core version build of the SkillGate artisan platform.
+* **[dcunilag-challenge-0](https://github.com/Gyaanwisdom/dcunilag-challenge-0)** - Urban Climate Intelligence Platform (UCIP) municipal climate resilience tracking application.
 * **[Profai](https://github.com/Gyaanwisdom/Profai)** - Advanced web application framework and AI-driven tool platform.
-* **[EchoSign](https://github.com/Gyaanwisdom)** - Accessibility innovation project developed for the AFRETEC-UNILAG Inclusive Education Challenge, bridging communication gaps using assistive technology.
-* **[SkillBridge](https://github.com/Gyaanwisdom)** - STEM career accelerator platform submitted for the CODET Student Project Competition.
-* **[Arduino & MATLAB Telemetry System](https://github.com/Gyaanwisdom)** - Hardware-software interfacing project utilizing Arduino Uno R3, shift registers, LCD displays, and MATLAB data acquisition pipelines.
-* **[Robotics & Kinematics Simulations](https://github.com/Gyaanwisdom)** - Implementation of forward/inverse kinematics, 2/3-DOF planar manipulators, and ROS 2 / Gazebo simulation environments.
-* **[AI API Pipelines](https://github.com/Gyaanwisdom)** - Python-based applications utilizing the OpenAI SDK and custom automation scripts for data handling.
+
+### Collaborations & Team Builds:
+* **[Skillgate (Mikomijie)](https://github.com/Mikomijie/Skillgate)** - Collaborative repository for the SkillGate artisan platform.
+* **[UCIP (Mozzicato)](https://github.com/Mozzicato/UCIP)** - Municipal climate resilience tracking platform repository.
+* **[intern-me](https://github.com/Mozzicato/intern-me)** - Career and internship platform development.
+* **[AfrichainBuild54](https://github.com/Mozzicato/AfrichainBuild54)** - Web3 and blockchain development build.
+* **[ai-sports](https://github.com/BAIUK1/ai-sports)** - AI-powered sports analytics platform.
+* **[EduByte-AI](https://github.com/ChibuikemJosh/EduByte-AI)** - AI-driven educational technology platform.
+* **[GIGMARK](https://github.com/Mozzicato/GIGMARK)** - Marketplace and gig platform development.
+
+### Tech Stack & Tools:
+* **Languages:** Python, C++, MATLAB, JavaScript, TypeScript
+* **Hardware & Systems:** Arduino, ROS 2, Gazebo, Ubuntu Linux, Microcontrollers & Circuit Design
+* **Developer Tools:** Git & GitHub, Visual Studio Code, Docker
+* **Interests:** Edge AI, Autonomy, Robotics, Sustainability & Civic Tech
+  
